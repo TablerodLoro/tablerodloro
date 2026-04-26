@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hola
+Este es el repositorio del trabajo que estare haciendo sobre el archivo de intervención del tablero de mi cuarto.
+Actualmente estoy trabajando en subir la primera sesión.
 <!--
 **TablerodLoro/tablerodloro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
